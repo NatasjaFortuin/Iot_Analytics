@@ -1,0 +1,22 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Global Environment.RData
+.household_power_consumption.txt
+.Initial report.pptx
+.Info log.pptx
+.sub metering for electricity.pdf
+.data_ready.rds
+.dataSM1.rds
+.dataSM3.rds
+.dataGA.rds
+.dataSM2.rds
+.Model IoT.R.RData
+.GE DeepDive.RData
+.GE Combi.RData
+*.txt
+*.RData
+*.rds
+*.pptx
+*.pdf
